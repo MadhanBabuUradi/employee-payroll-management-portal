@@ -11,8 +11,7 @@ Payroll systems are mission-critical enterprise applications used by every organ
 
 
 ## 🧠 Core Features
-
-### 👤 Employee Management
+👤 **Employee Management
 - Add, update, and manage employee records
 - Department and designation mapping
 - Salary structure configuration
