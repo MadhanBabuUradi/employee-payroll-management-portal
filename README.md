@@ -4,7 +4,7 @@ Built using **modern full-stack development practices** with a focus on **scalab
 
 **Overview**  
 Payroll systems are mission-critical enterprise applications used by every organization, 
-This project demonstrates my ability to design and build **business-critical software** with:
+This project demonstrates my ability to design and build business-critical software** with:
 - Real payroll calculations  
 - Role-based access control  
 - Secure data handling  
