@@ -16,7 +16,7 @@ Payroll systems are mission-critical enterprise applications used by every organ
 - Department and designation mapping
 - Salary structure configuration
 
-### 💰 Payroll Processing
+💰 **Payroll Processing
 - Automated salary calculation
 - Allowances and deductions
 - Monthly payroll generation
