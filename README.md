@@ -27,12 +27,12 @@ Payroll systems are mission-critical enterprise applications used by every organ
 - **HR/Manager**: Payroll & employee management
 - **Employee**: View salary details
 
-### 📊 Payroll Reports
+📊 **Payroll Reports** 
 - Monthly salary reports
 - Employee-wise payroll history
 - Export-ready structured data
 
-### 🛡️ Security & Validation
+🛡️ **Security & Validation** 
 - Input validation
 - Secure authentication flow
 - Controlled access to payroll data
