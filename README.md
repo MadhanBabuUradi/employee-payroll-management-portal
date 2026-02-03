@@ -40,3 +40,7 @@ This project demonstrates my ability to design and build **business-critical sof
 - Input validation
 - Secure authentication flow
 - Controlled access to payroll data
+
+🤝 **Contributing**  
+**Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.**
+
