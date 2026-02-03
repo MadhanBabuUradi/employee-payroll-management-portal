@@ -22,7 +22,7 @@ Payroll systems are mission-critical enterprise applications used by every organ
 - Monthly payroll generation
 - Net salary computation
 
-### 🔐 Role-Based Access Control
+🔐 **Role-Based Access Control** 
 - **Admin**: Full system access
 - **HR/Manager**: Payroll & employee management
 - **Employee**: View salary details
