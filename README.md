@@ -4,7 +4,6 @@ A **secure, role-based Payroll Management System** designed to automate employee
 Built using **modern full-stack development practices** with a focus on **scalability, clean architecture, and real-world business logic**.
 
 **Overview**
-
 Payroll systems are **mission-critical enterprise applications** used by every organization.  
 This project demonstrates my ability to design and build **business-critical software** with:
 - Real payroll calculations  
